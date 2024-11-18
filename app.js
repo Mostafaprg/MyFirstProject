@@ -1,1 +1,1 @@
-alert("hello i'm Mostafa Mohamed");
+alert("how are you");
